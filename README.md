@@ -13,7 +13,7 @@ Welcome to my repository! This is a collection of my personal notes, writeups, a
 
 Each room or challenge has its own dedicated folder containing a detailed walkthrough. 
 
-* `/TryHackMe/Room/Challenge-Name`
+* `/TryHackMe/Challenge-Name/Room-Name`
 * `/HackTheBox/Machine-Name`
 * `/Other/CTF-Name`
 
