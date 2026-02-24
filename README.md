@@ -5,7 +5,6 @@ Welcome to my repository! This is a collection of my personal notes, writeups, a
 ## Platforms Covered
 
 * TryHackMe
-* HackTheBox
 * CyberDefenders
 * Other CTF events
 
@@ -14,7 +13,7 @@ Welcome to my repository! This is a collection of my personal notes, writeups, a
 Each room or challenge has its own dedicated folder containing a detailed walkthrough. 
 
 * `/TryHackMe/Challenge-Name/Room-Name`
-* `/HackTheBox/Machine-Name`
+* `/CyberDefenders/Challenge-Name`
 * `/Other/CTF-Name`
 
 > **Disclaimer:** All content, scripts, and techniques described in this repository are strictly for educational purposes. Only use this knowledge on authorized systems and platforms.
